@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.4.17",
-    "fast-xml-parser": "^4.4.0",
+    "fast-xml-parser": "^5.5.7",
     "postcss": "^8.4.33",
     "prettier": "^3.3.0",
     "solid-devtools": "^0.33.0",
